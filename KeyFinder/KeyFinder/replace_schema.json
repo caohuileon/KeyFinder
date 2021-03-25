@@ -1,0 +1,8 @@
+{
+  "rep_file_type": [".py"],
+  "rep_files": ["/repo/Code/OneFS/onefs/isilon/test-qa/tests/healthcheck/test_checks"],
+  "rep_data": [
+    {"10.25.68.42": "10.11.22.33"},
+    {"Tests for synciq_packet_fragmentation check": "test replace"}
+  ]
+}
